@@ -17,6 +17,9 @@ Red Bend Software vLogix Mobile
 
 OKL4 Microvisor ：http://www.ok-labs.com/products/okl4-microvisor
 
+RedBend vLogix Mobile: http://www.redbend.com/zh/products-solutions/mobile-virtualization  
+http://www.virtuallogix.com/  
+
 
 http://ppadala.net/blog/2011/02/mobivirt-challenges/  
 http://berkeley.intel-research.net/bgchun/clonecloud/  
